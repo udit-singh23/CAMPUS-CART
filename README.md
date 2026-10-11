@@ -148,7 +148,3 @@ CAMPUS-CART/
 - Cart information is stored in the browser's `localStorage`.
 - The checkout process is for demonstration purposes only and does not process real payments.
 - The application currently does not use a backend database or user authentication.
-
-## License
-
-This project was developed as an academic project. Contact the repository owner before reusing or redistributing the project if no separate license has been provided.
